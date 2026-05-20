@@ -1,5 +1,3 @@
-import { error } from "console";
-
 const URLBase = "https://api.openweathermap.org/data/2.5/weather?q=";
 
 const apiKey = process.env.API_KEY;
