@@ -88,7 +88,7 @@ export default function Home() {
             <div
               className={`mt-10 w-full max-w-md md:max-w-2xl lg:max-w-4xl rounded-3xl shadow-lg p-6 transition-colors duration-300 ${
                 dark
-                  ? "bg-linear-to-tr from-gray-800 via-gray-700 to-gray-600 text-gray-200"
+                  ? "bg-linear-to-tr from-gray-700 via-gray-500 to-gray-200 text-gray-200"
                   : "bg-linear-to-tr from-blue-200 via-blue-300 to-blue-400 text-gray-800"
               }`}
             >
